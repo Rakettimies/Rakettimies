@@ -12,6 +12,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakettimies&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakettimies&theme=dark&hide_border=false)<br/>
-![](github-readme-stats-eta-henna.vercel.app/api/top-langs/?username=rakettimies&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](github-readme-stats-rakettimies.vercel.app/api/top-langs/?username=rakettimies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
